@@ -1,8 +1,8 @@
-# Olá, me chamo Renan Teixeira, tudo bem?👋
+<h1 align="center">👋 Olá, me chamo Renan Teixeira, tudo bem?</h1>
 
-🚀 **PROANO | Desenvolvedor Full Stack**  
+## ✨ Desenvolvedor Full Stack | PROANO
 
-Sou desenvolvedor com foco em desenvolvimento de software, com interesse em criar soluções eficientes, escaláveis e bem estruturadas. Tenho afinidade com diferentes tecnologias do ecossistema de programação e busco constantemente aprimorar minhas habilidades técnicas através de projetos práticos e estudo contínuo.
+Sou programador com foco em desenvolvimento de software, com interesse em criar soluções eficientes, escaláveis e bem estruturadas. Tenho afinidade com diferentes tecnologias do ecossistema de programação e busco constantemente aprimorar minhas habilidades técnicas através de projetos práticos e estudo contínuo.
 
 Possuo forte interesse em tecnologias modernas e tendências do mercado, acompanhando a evolução da área para aplicar boas práticas, padrões de desenvolvimento e ferramentas atuais na construção de aplicações.
 
@@ -16,7 +16,7 @@ Possuo forte interesse em tecnologias modernas e tendências do mercado, acompan
 
 ---
 
-## 🌐 Onde você pode me encontar:
+## 🌐 Onde você pode me encontrar:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/renan-de-castro-teixeira-aa4957261/">
@@ -60,10 +60,25 @@ Possuo forte interesse em tecnologias modernas e tendências do mercado, acompan
 
 ---
 
-## 📊 GitHub Stats
+<h2>🚀 Meus Projetos em Destaque</h2>
+
+<div style="border: 1px solid #30363d; border-radius: 10px; overflow: hidden">
+  <!-- Lembrete: Tirar o comentário desses hr quando eu adicionar mais projetos* -->
+  <!-- <hr style="border: 1px solid #30363d;"> -->
+  <div style="padding: 20px; text-align: center;">
+    <h3>Litera</h3>
+    <p>
+      Litera é uma suíte de jogos educacionais desenvolvida para auxiliar no processo de alfabetização de crianças brasileiras, visando mitigar o problema de analfabetismo nacional. O projeto foi criado como parte do trabalho de conclusão de curso de Desenvolvimento de Sistemas da <b> Escola Técnica Estadual de Guaianases</b>, em 2024,  com o objetivo de tornar o aprendizado da leitura e escrita mais lúdico e envolvente, utilizando jogos interativos e dinâmicos.
+    </p>
+    <a href="https://github.com/Illumi-Etec/litera" target="_blank">💻 Ver Código</a>
+  </div>
+  <!-- <hr style="border: 1px solid #30363d;"> -->
+</div>
+
+## 📊 Estatísticas
 
 <p align="center">
-  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=renan-teixx&show_icons=true&theme=tokyonight&count_private=true" /> -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=renan-teixx&show_icons=true&theme=tokyonight&count_private=true" /> 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-teixx&layout=compact&theme=tokyonight" />
 </p>
 
@@ -71,4 +86,5 @@ Possuo forte interesse em tecnologias modernas e tendências do mercado, acompan
 
 ⭐ Se você gostou do meu perfil, considere dar uma estrela em um repositório!
 
-🤝 Estou sempre disponível a colaborações, parcerias e ideias inovadoras.
+🤝 Estou sempre disponível a colaborações, parcerias e ideias inovadoras. Envie-me uma mensagem!
+
