@@ -60,6 +60,8 @@ Possuo forte interesse em tecnologias modernas e tendências do mercado, acompan
 
 ---
 
+## 🚀 Meus Projetos em Destaque
+
 <table>
   <tr>
     <td width="50%">
