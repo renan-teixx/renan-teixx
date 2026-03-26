@@ -11,7 +11,7 @@ Possuo forte interesse em tecnologias modernas e tendências do mercado, acompan
 ## 💫 Minha trajetória acadêmica
 
 - **Técnico em Desenvolvimento de Sistemas** - ETEC de Guaianases
-- **Análise e Desenvolvimento de Sistemas** - FATEC Mogi das Cruzes (cursando - 2º semestre)
+- **Tencnólogo em Análise e Desenvolvimento de Sistemas** - FATEC Mogi das Cruzes (cursando - 2º semestre)
 - **Programação Full Stack** - Instituto PROA (cursando)
 
 ---
