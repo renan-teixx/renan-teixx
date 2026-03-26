@@ -60,20 +60,18 @@ Possuo forte interesse em tecnologias modernas e tendências do mercado, acompan
 
 ---
 
-<h2>🚀 Meus Projetos em Destaque</h2>
-
-<div style="border: 1px solid #30363d; border-radius: 10px; overflow: hidden">
-  <!-- Lembrete: Tirar o comentário desses hr quando eu adicionar mais projetos* -->
-  <!-- <hr style="border: 1px solid #30363d;"> -->
-  <div style="padding: 20px; text-align: center;">
-    <h3>Litera</h3>
-    <p>
-      Litera é uma suíte de jogos educacionais desenvolvida para auxiliar no processo de alfabetização de crianças brasileiras, visando mitigar o problema de analfabetismo nacional. O projeto foi criado como parte do trabalho de conclusão de curso de Desenvolvimento de Sistemas da <b> Escola Técnica Estadual de Guaianases</b>, em 2024,  com o objetivo de tornar o aprendizado da leitura e escrita mais lúdico e envolvente, utilizando jogos interativos e dinâmicos.
-    </p>
-    <a href="https://github.com/Illumi-Etec/litera" target="_blank">💻 Ver Código</a>
-  </div>
-  <!-- <hr style="border: 1px solid #30363d;"> -->
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Litera</h3>
+      <p align="center">
+        Litera é uma suíte de jogos educacionais desenvolvida para auxiliar no processo de alfabetização de crianças brasileiras. Em 2024, o projeto foi criado como parte do trabalho de conclusão de curso de <b>Desenvolvimento de Sistemas</b> da <b>Escola Técnica Estadual de Guaianases</b>, com o objetivo de tornar o aprendizado da leitura e escrita mais lúdico e envolvente, utilizando jogos interativos e dinâmicos.<br><br>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/MarleyS439/litera" target="_blank"><strong>💻 Ver Código</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Estatísticas
 
@@ -87,4 +85,3 @@ Possuo forte interesse em tecnologias modernas e tendências do mercado, acompan
 ⭐ Se você gostou do meu perfil, considere dar uma estrela em um repositório!
 
 🤝 Estou sempre disponível a colaborações, parcerias e ideias inovadoras. Envie-me uma mensagem!
-
