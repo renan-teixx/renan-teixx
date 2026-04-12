@@ -78,7 +78,7 @@ Possuo forte interesse em tecnologias modernas e tendências do mercado, acompan
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=renan-teixx&show_icons=true&theme=tokyonight&count_private=true" /> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=renan-teixx&show_icons=true&theme=tokyonight&count_private=true&v=1" /> 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-teixx&layout=compact&theme=tokyonight" />
 </p>
 
