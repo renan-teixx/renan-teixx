@@ -78,8 +78,12 @@ Possuo forte interesse em tecnologias modernas e tendências do mercado, acompan
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=renan-teixx&show_icons=true&theme=tokyonight&count_private=true" /> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-teixx&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=renan-teixx&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renan-teixx&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=renan-teixx&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
