@@ -39,28 +39,37 @@ Sou técnico em Desenvolvimento de Sistemas, atualmente cursando desenvolvimento
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Litera</h3>
-      <p align="center">
-        Litera é uma suíte de jogos educacionais desenvolvida para auxiliar no processo de alfabetização de crianças brasileiras. Em 2024, o projeto foi criado como parte do trabalho de conclusão de curso de <b>Desenvolvimento de Sistemas</b> da <b>Escola Técnica Estadual de Guaianazes</b>, com o objetivo de tornar o aprendizado da leitura e escrita mais lúdico e envolvente, utilizando jogos interativos e dinâmicos.<br><br>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/MarleyS439/litera" target="_blank"><strong>💻 Ver Código</strong></a>
-      </p>
-    </td>
+    <td align="center">
+      <h3>Litera</h3>
+
+Litera é uma suíte de jogos educacionais desenvolvida para auxiliar no processo de alfabetização de crianças brasileiras. Em 2024, o projeto foi criado como parte do trabalho de conclusão de curso de <b>Desenvolvimento de Sistemas</b> da <b>Escola Técnica Estadual de Guaianazes</b>, com o objetivo de tornar o aprendizado da leitura e escrita mais lúdico e envolvente, utilizando jogos interativos e dinâmicos.
+
+<br><br>
+
+<a href="https://github.com/MarleyS439/litera">
+<strong>💻 Ver Código</strong>
+</a>
+
+  </td>
   </tr>
-</table>
-<hr>
-<table>
+
   <tr>
-    <td width="50%">
-      <h3 align="center">Argus Vision</h3>
-      <p align="center">
-         Argus Vision surgiu como um projeto de DemoDay do curso <b>Proprofissão</b>, do <b>Instituto PROA</b> no 1º semestre de 2026. Consiste em um sistema de tecnologia assistiva desenvolvido para promover mais autonomia, segurança e inclusão social para pessoas com deficiência visual ao passearem com seu cão-guia, através de uma coleira com rastreador e sensores de objetos próximos do animal.<br><br>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/orgs/ArgusVision-demoday/repositories" target="_blank"><strong>💻 Ver Código</strong></a>
-        <a href="https://sistema-argus-vision.vercel.app/" target="_blank"><strong>🚀 Ver Site</strong></a>
-      </p>
-    </td>
+    <td align="center">
+      <h3>Argus Vision</h3>
+
+Argus Vision surgiu como um projeto de DemoDay do curso <b>Proprofissão</b>, do <b>Instituto PROA</b> no 1º semestre de 2026. Consiste em um sistema de tecnologia assistiva desenvolvido para promover mais autonomia, segurança e inclusão social para pessoas com deficiência visual ao passearem com seu cão-guia, através de uma coleira com rastreador e sensores de objetos próximos do animal.
+
+<br><br>
+
+<a href="https://github.com/orgs/ArgusVision-demoday/repositories">
+<strong>💻 Ver Código</strong>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://sistema-argus-vision.vercel.app/">
+<strong>🚀 Ver Site</strong>
+</a>
+
+  </td>
   </tr>
 </table>
 
