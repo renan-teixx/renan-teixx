@@ -1,75 +1,64 @@
-<h1 align="center">👋 Olá, me chamo Renan Teixeira, tudo bem?</h1>
+<h1 align="center"> Olá, me chamo Renan Teixeira, tudo bem?</h1>
 
-## ✨ Desenvolvedor Full Stack | PROANO
+<h2>Desenvolvedor Full Stack </h2>
 
-Sou programador com foco em desenvolvimento de software, com interesse em criar soluções eficientes, escaláveis e bem estruturadas. Tenho afinidade com diferentes tecnologias do ecossistema de programação e busco constantemente aprimorar minhas habilidades técnicas através de projetos práticos e estudo contínuo.
+Sou técnico em Desenvolvimento de Sistemas, atualmente cursando desenvolvimento web no Proprofissão, do Instituto PROA e o Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes.
 
-Possuo forte interesse em tecnologias modernas e tendências do mercado, acompanhando a evolução da área para aplicar boas práticas, padrões de desenvolvimento e ferramentas atuais na construção de aplicações.
 
----
-
-## 💫 Minha trajetória acadêmica
-
-- **Técnico em Desenvolvimento de Sistemas** - ETEC de Guaianases
-- **Tencnólogo em Análise e Desenvolvimento de Sistemas** - FATEC Mogi das Cruzes (cursando - 2º semestre)
-- **Programação Full Stack** - Instituto PROA (cursando)
-
----
-
-## 🌐 Onde você pode me encontrar:
+## 🌐 Conecte-se comigo:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/renan-de-castro-teixeira-aa4957261/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/renan-de-castro-teixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="castroteixeira2019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
 
-## 💻 Tecnologias
 
-<h3 align="center">🎨 Frontend</h3>
+## 💻 Linguagens e Tecnologias
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFDD00?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<p align="left">
+  <img alt="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="C#" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt=".NET" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+  <img alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="SQL Server" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img alt="GitHub" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <img alt="Figma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img alt="VS Code" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
-<h3 align="center">⚙️ Backend</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
 
-<h3 align="center">🛠️ DevOps & Tools</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
-
----
-
-## 🚀 Meus Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">Litera</h3>
       <p align="center">
-        Litera é uma suíte de jogos educacionais desenvolvida para auxiliar no processo de alfabetização de crianças brasileiras. Em 2024, o projeto foi criado como parte do trabalho de conclusão de curso de <b>Desenvolvimento de Sistemas</b> da <b>Escola Técnica Estadual de Guaianases</b>, com o objetivo de tornar o aprendizado da leitura e escrita mais lúdico e envolvente, utilizando jogos interativos e dinâmicos.<br><br>
+        Litera é uma suíte de jogos educacionais desenvolvida para auxiliar no processo de alfabetização de crianças brasileiras. Em 2024, o projeto foi criado como parte do trabalho de conclusão de curso de <b>Desenvolvimento de Sistemas</b> da <b>Escola Técnica Estadual de Guaianazes</b>, com o objetivo de tornar o aprendizado da leitura e escrita mais lúdico e envolvente, utilizando jogos interativos e dinâmicos.<br><br>
         &nbsp;&nbsp;&nbsp;
         <a href="https://github.com/MarleyS439/litera" target="_blank"><strong>💻 Ver Código</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+<hr>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Argus Vision</h3>
+      <p align="center">
+         Argus Vision surgiu como um projeto de DemoDay do curso <b>Proprofissão</b>, do <b>Instituto PROA</b> no 1º semestre de 2026. Consiste em um sistema de tecnologia assistiva desenvolvido para promover mais autonomia, segurança e inclusão social para pessoas com deficiência visual ao passearem com seu cão-guia, através de uma coleira com rastreador e sensores de objetos próximos do animal.<br><br>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/orgs/ArgusVision-demoday/repositories" target="_blank"><strong>💻 Ver Código</strong></a>
+        <a href="https://sistema-argus-vision.vercel.app/" target="_blank"><strong>🚀 Ver Site</strong></a>
       </p>
     </td>
   </tr>
@@ -85,9 +74,3 @@ Possuo forte interesse em tecnologias modernas e tendências do mercado, acompan
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=renan-teixx&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-⭐ Se você gostou do meu perfil, considere dar uma estrela em um repositório!
-
-🤝 Estou sempre disponível a colaborações, parcerias e ideias inovadoras. Envie-me uma mensagem!
