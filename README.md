@@ -1,8 +1,8 @@
 <h1 align="center"> Olá, me chamo Renan Teixeira, tudo bem?</h1>
 
-<h2>Desenvolvedor Full Stack </h2>
+<h2>Desenvolvedor Full Stack</h2>
 
-Sou técnico em Desenvolvimento de Sistemas, atualmente cursando desenvolvimento web no Proprofissão, do Instituto PROA e o Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes.
+Estudante de Análise e Desenvolvimento de Sistemas na Fatec São Paulo. Técnico em Desenvolvimento de Sistemas e Ex-Proano (2026).
 
 
 ## 🌐 Conecte-se comigo:
@@ -20,7 +20,7 @@ Sou técnico em Desenvolvimento de Sistemas, atualmente cursando desenvolvimento
 
 ## 💻 Linguagens e Tecnologias
 
-<p align="left">
+<p align="center">
   <img alt="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -39,41 +39,12 @@ Sou técnico em Desenvolvimento de Sistemas, atualmente cursando desenvolvimento
 
 
 
-## 🚀 Projetos em Destaque
+## 🚀 Meus Projetos
 
-<table>
-  <tr>
-    <td align="center">
-
-<h3 align="center">Litera</h3>
-
-Litera é uma suíte de jogos educacionais desenvolvida para auxiliar no processo de alfabetização de crianças brasileiras. Em 2024, o projeto foi criado como parte do trabalho de conclusão de curso de **Desenvolvimento de Sistemas** da **Escola Técnica Estadual de Guaianazes**, com o objetivo de tornar o aprendizado da leitura e escrita mais lúdico e envolvente, utilizando jogos interativos e dinâmicos.
-
-<a href="https://github.com/MarleyS439/litera">
-💻 <strong>Ver Código</strong>
-</a>
-
-  </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-
-<h3 align="center">Argus Vision</h3>
-
-Argus Vision surgiu como um projeto de DemoDay do curso **Proprofissão**, do **Instituto PROA** no 1º semestre de 2026. Consiste em um sistema de tecnologia assistiva desenvolvido para promover mais autonomia, segurança e inclusão social para pessoas com deficiência visual ao passearem com seu cão-guia, através de uma coleira com rastreador e sensores de objetos próximos do animal.
-
-<a href="https://github.com/orgs/ArgusVision-demoday/repositories">
-💻 <strong>Ver Código</strong>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://sistema-argus-vision.vercel.app/">
-🚀 <strong>Ver Site</strong>
-</a>
-
-  </td>
-  </tr>
-</table>
+| Projeto | Proposta | Tech Stack |
+| :------ | :-------- | :--------- |
+| **[Argus Vision](https://github.com/orgs/ArgusVision-demoday/repositories)** | Projeto desenvolvido para o **Demo Day do Instituto PROA**. Consiste em uma solução de tecnologia assistiva voltada para pessoas com deficiência visual, utilizando uma coleira inteligente com rastreador GPS e sensores de obstáculos para oferecer mais autonomia, segurança e inclusão durante passeios com cães-guia.<br><br>🚀 **[Ver Site](https://sistema-argus-vision.vercel.app/)** | `HTML` `CSS` `JavaScript` `C#` `ASP.NET Core` `SQL Server` `Figma` |
+| **[Litera](https://github.com/MarleyS439/litera)** | Suíte de jogos educacionais desenvolvida como Trabalho de Conclusão de Curso da **ETEC de Guaianazes**. O projeto tem como objetivo auxiliar crianças brasileiras no processo de alfabetização através de jogos interativos, tornando o aprendizado mais acessível, divertido e envolvente. | `Java` `Java Swing` `MySQL` `Figma` |
 
 ## 📊 Estatísticas
 
