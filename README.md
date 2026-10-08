@@ -39,9 +39,13 @@
 
 <h2 align="center">Tech Stack</h2>
 
+<div align="center">
+
 | Frontend | Backend | Ferramentas
 | :---: | :---: |  :---: |
 |  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,java,mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma)](https://skillicons.dev) 
+
+<div>
 
 
 <!-- <p align="center">
