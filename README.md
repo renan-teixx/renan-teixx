@@ -78,8 +78,8 @@
 <h2 align="center">Estatísticas:</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=renan-teixx&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renan-teixx&layout=compact&theme=tokyonight" />
+  <img height="170" src="./profile/stats.svg" />
+  <img height="170" src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
