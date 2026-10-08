@@ -83,5 +83,5 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=renan-teixx&theme=tokyonight&hide_border=true" />
+  <img height="170" style="border: 1px solid white;" src="https://streak-stats.demolab.com?user=renan-teixx&theme=tokyonight&hide_border=true" />
 </p>
