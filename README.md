@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <img height="400" width="600" src="../assets/mbanimation.gif" />
+  <img height="400" width="600" src="./assets/mbanimation.gif" />
 
   <p>
     Estudante de Análise e Desenvolvimento de Sistemas na Fatec São Paulo.<br>
