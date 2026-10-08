@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <img height="400" width="600" src="./assets/mbanimation.gif" />
+  <img height="350" width="700" src="./assets/mbanimation.gif" />
 
   <p>
     Estudante de Análise e Desenvolvimento de Sistemas na Fatec São Paulo.<br>
@@ -41,7 +41,7 @@
 
 | Frontend | Backend | Ferramentas
 | :---: | :---: |  :---: |
-|  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=python,cs,mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma)](https://skillicons.dev) 
+|  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,java,mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma)](https://skillicons.dev) 
 
 
 <!-- <p align="center">
