@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&animation=blinking&color=6C63FF" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&animation=blinking&color=0C2A50" />
 </div>
 
 ---
@@ -71,9 +71,9 @@
 
 | Projeto | Proposta | Tech Stack |
 | :------ | :-------- | :--------- |
-| **[CiberPerifa](https://github.com/ProjetoIntegradorCiberseguranca)** | Programa em desenvolvimento criado para a disciplina de Projeto Integrador do 1º semestre da **FATEC São Paulo**, em 2026. O projeto tem como objetivo conscientizar usuários sobre a relevância do tema de Ciberseguranca no meio digital, através de um documento acessível para download e atualizado periodicamente  com dados sobre a quantidade de novos casos de falhas e problemas relacionados ao tema. | `HTML` `CSS` `JavaScript` `Python` `Figma` |
+| **[CiberPerifa](https://github.com/ProjetoIntegradorCiberseguranca/CiberPerifa)** | Programa criado para a disciplina de Projeto Integrador do 1º semestre da **FATEC São Paulo**, em 2026. O projeto tem como objetivo conscientizar e orientar usuários sobre Cibersegurança no meio digital, através de um documento PDF gerado com Python que atualiza as informações a cada novo download por meio de fontes relevantes, como a API da CISA (Cybersecurity and Infrastructure Security Agency), a Agência de Segurança Cibernética e de Infraestrutura dos Estados Unidos. | `HTML` `CSS` `JavaScript` `Python` `Flask` `ReportLab` `Figma` |
 | **[Argus Vision](https://github.com/orgs/ArgusVision-demoday/repositories)** | Projeto desenvolvido para o **Demo Day do Instituto PROA**, no primeiro semestre de 2026. Consiste em uma solução de tecnologia assistiva voltada para pessoas com deficiência visual, utilizando uma coleira inteligente com rastreador GPS e sensores de obstáculos para oferecer mais autonomia, segurança e inclusão durante passeios com cães-guia. | `HTML` `CSS` `JavaScript` `C#` `Groq` `SQL Server` `Figma` |
-| **[Litera](https://github.com/MarleyS439/litera)** | Suíte de jogos educacionais desenvolvida como Trabalho de Conclusão de Curso da **ETEC de Guaianazes** em 2024. O projeto tem como objetivo auxiliar crianças brasileiras no processo de alfabetização através de jogos interativos, tornando o aprendizado mais acessível, divertido e envolvente. | `HTML` `CSS` `JavaScript` `PHP` `Java` `JQuery` `MySQL` `Figma` |
+| **[Litera](https://github.com/MarleyS439/litera)** | Suíte de jogos educacionais desenvolvida como Trabalho de Conclusão de Curso da **ETEC de Guaianazes** em 2024. O projeto tem como objetivo auxiliar crianças brasileiras no processo de alfabetização através de jogos interativos, tornando o aprendizado mais acessível, divertido e envolvente. | `HTML` `CSS` `JavaScript` `PHP` `JQuery` `MySQL` `Figma` |
 
 <h2 align="center">Estatísticas:</h2>
 
